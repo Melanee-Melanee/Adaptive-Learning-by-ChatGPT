@@ -1,6 +1,6 @@
 # ChatGPT-Melanee
 
-All of this repo codes are developed by ChatGPT!
+All of this repo codes are developed by artificial intelligence of ChatGPT!
 
 https://openai.com/blog/chatgpt/
 
